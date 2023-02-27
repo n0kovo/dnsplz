@@ -3,8 +3,6 @@
 A simple Bash script that resolves a list of domains from stdin to IP addresses using `dig` and prints them to stdout.
 Prints a progress bar to stderr too.
 
-<br>
-
 ## Demo:
 
 
