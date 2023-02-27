@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Description: Resolve domains from stdin and print the IPs to stdout (with progress bar)
-# Example: cat domains.txt | ./resolve.sh | sort | uniq -c | sort -nr
+# Example: cat domains.txt | ./dnsplz.sh | sort | uniq -c | sort -nr
 
 # Progress bar printing to stderr
 function progress_bar {
